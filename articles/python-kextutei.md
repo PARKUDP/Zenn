@@ -3,7 +3,7 @@ title: "決定木アルゴリズムをIris-datasetに対してPythonで実行し
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Python", "Iris"]
-published: True
+published: False
 ---
 
 # 背景
