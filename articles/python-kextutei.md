@@ -2,12 +2,12 @@
 title: "決定木アルゴリズムをIris-datasetに対してPythonで実行した!"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Python", "Iris"]
+topics: ["Python", "Iris", "決定木アルゴリズム", "scikit-learn", "メモ"]
 published: True
 ---
 
 # 背景
-今回では、大学での課題として、機械学習ライブラリを利用して、決定木アルゴリズムをIris-datasetに対して実行結果をレポートにすることになりました！
+今回では、大学での課題として、機械学習ライブラリを利用して、決定木アルゴリズムを**Iris-dataset**に対して実行結果をレポートにすることになりました！
 
 # ライブラリ準備
 ```python:library.py
@@ -63,6 +63,12 @@ plt.show()
 `X_train`,`y_train`を利用して、訓練をさせます。これによって、モデルがデータを学習することで、未知のデータに関して予測することができるようになります。
 - **tree.plot_tree()**
 ここでは、決定木の可視化を行います。
+
+# まとめ
+この記事を参考にしてコードを書くと、次のような結果を得ることができます。
+![決定木によるIris学習結果](https://github.com/PARKUDP/Zenn/blob/main/articles/image/tree.png)
+
+結果として、今回を通じて、決定木アルゴリズムを**Iris-dataset**に対して実行結果をみることができました。役に立つ情報ではないと思いますが、間違っている情報などがあれば教えてもらうと嬉しいです！
 
 [](
 /home/park/project/Python/study/algorism/AI/report1.py
