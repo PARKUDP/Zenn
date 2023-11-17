@@ -66,7 +66,7 @@ plt.show()
 
 # まとめ
 この記事を参考にしてコードを書くと、次のような結果を得ることができます。
-![決定木によるIris学習結果](https://github.com/PARKUDP/Zenn/blob/main/articles/image/tree.png)
+![決定木によるIris学習結果](/image/tree.png)
 
 結果として、今回を通じて、決定木アルゴリズムを**Iris-dataset**に対して実行結果をみることができました。役に立つ情報ではないと思いますが、間違っている情報などがあれば教えてもらうと嬉しいです！
 
