@@ -3,7 +3,7 @@ title: "決定木アルゴリズムをIris-datasetに対してPythonで実行し
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Python", "Iris", "決定木アルゴリズム", "scikit-learn", "メモ"]
-published: False
+published: True
 ---
 
 # 背景
@@ -66,7 +66,7 @@ plt.show()
 
 # まとめ
 この記事を参考にしてコードを書くと、次のような結果を得ることができます。
-![決定木によるIris学習結果](/image/tree.png)
+![決定木によるIris学習結果](/images/tree.png)
 
 結果として、今回を通じて、決定木アルゴリズムを**Iris-dataset**に対して実行結果をみることができました。役に立つ情報ではないと思いますが、間違っている情報などがあれば教えてもらうと嬉しいです！
 
