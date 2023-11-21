@@ -1,8 +1,8 @@
 ---
 title: "決定木アルゴリズムをIris-datasetに対してPythonで実行した!"
-emoji: "✨"
+emoji: "📖"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Python", "Iris", "決定木アルゴリズム", "scikit-learn", "メモ"]
+topics: ["Python", "Iris", "決定木アルゴリズム", "scikitlearn", "メモ"]
 published: True
 ---
 

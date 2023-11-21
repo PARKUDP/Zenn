@@ -1,7 +1,7 @@
 ---
 title: "CLIで初めて記事を作成した"
 emoji: "🕌"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["日常", "markdown", "zenn"]
 published: True
 ---
